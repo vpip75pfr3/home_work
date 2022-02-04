@@ -151,8 +151,6 @@ class Market(Category):
                 raise FinishPurchases
 
 
-
-
 if __name__ == '__main__':
     # Создаем категории
     cat_proc = Category('Процессоры')
